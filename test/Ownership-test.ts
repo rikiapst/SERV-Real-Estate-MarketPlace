@@ -1,0 +1,1 @@
+//Test that the members in the DAO are approved members? There may be a solidity built in function for this 
